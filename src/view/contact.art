@@ -1,0 +1,8 @@
+{{include './components/header.art'}}
+<div>
+    <a href='./index.html'>首页</a>
+</div>
+<div>
+联系我们联系电话等等
+</div>
+{{include './components/footer.art'}}

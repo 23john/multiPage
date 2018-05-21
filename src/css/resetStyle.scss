@@ -1,0 +1,17 @@
+body{
+    font:400 13.9167px/1.5em 'hanyiqihei',"Microsoft YaHei",'PingFang SC',"\9ED1\4F53",Arial,sans-serif; 
+}
+div{
+    border:10px solid #f00;
+}
+@font-face {
+    font-family: 'hanyiqihei';
+    src: url('/src/font/hanyiqihei.ttf');
+    src:
+      url('/src/font/hanyiqihei.eot?#font-spider') format('embedded-opentype'),
+      url('/src/font/hanyiqihei.woff') format('woff'),
+      url('/src/font/hanyiqihei.ttf') format('truetype'),
+      url('/src/font/hanyiqihei.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

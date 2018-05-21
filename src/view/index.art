@@ -1,0 +1,9 @@
+{{include './components/header.art'}}
+<div>
+    <h1>{{ data.name }}</h1>
+    <h2>{{ data.age }}</h2>
+    <h3>{{ data.male }}</h3>
+    <a href='./about.html'>关于我们</a>
+    <a href='./contact.html'>联系我们</a>
+</div>
+{{include './components/footer.art'}}
